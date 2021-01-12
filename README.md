@@ -6,7 +6,7 @@ Simple Python http server, get logs and request.
  
 # Usage
 ```
-python3python3python3python3python3python3python3python3 py-http.py
+python3 py-http.py
 ```
 
 # Screenshot
