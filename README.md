@@ -5,7 +5,8 @@ Simple Python http server, get logs and request.
 - ![Python 3](www.python.org/releases/3.0/)
  
 # Usage
-```python3 py-http.py
+```
+python3python3python3python3python3python3python3python3 py-http.py
 ```
 
 # Screenshot
